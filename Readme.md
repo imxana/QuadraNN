@@ -1,7 +1,15 @@
 ## Quadratic Neural Network
 
-纯Numpy的二次函数的神经网络训练
+二次函数的神经网络训练
 
+## Project Version
+
+|Lib|Version|
+|---|---|
+|Python |3.10.2|
+|numpy|1.24.2|
+|matplotlib|3.7.1|
+                
 ## Result
 
 ![Quadratic.png](./Quadratic.png)
